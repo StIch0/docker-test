@@ -6,6 +6,9 @@
 
 Запуск приложения
 
+```
+cd client
 npm install
 ios
 pod install
+```
